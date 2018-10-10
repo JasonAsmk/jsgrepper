@@ -1,0 +1,23 @@
+{
+  "name": "jsgrepper",
+  "version": "0.1.0",
+  "description": "Grep using javascript regexes",
+  "main": "index.js",
+  "bin": {
+    "jsgrepper": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grep",
+    "regex",
+    "javascript",
+    "regex"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "2.19.0"
+  }
+}
